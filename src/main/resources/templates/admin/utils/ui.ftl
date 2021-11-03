@@ -44,8 +44,8 @@
     <!-- Main Header -->
     <header class="main-header">
         <a href="${base}/index" class="logo">
-            <span class="logo-mini">MBG</span>
-            <span class="logo-lg"><b>M</b>BLOG</span>
+            <span class="logo-mini">地大</span>
+            <span class="logo-lg"><b>中国地质大学</b></span>
         </a>
         <nav class="navbar navbar-static-top">
             <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
@@ -126,7 +126,7 @@
         <!-- To the right -->
         <div class="pull-right hidden-xs">${site.version}</div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2019 <a href="#">mtons</a>.</strong> All rights reserved.
+        <strong>996小分队 &copy; 2021 <a href="https://www.cug.edu.cn/">中国地质大学</a>.</strong> .
     </footer>
 </body>
 </html>

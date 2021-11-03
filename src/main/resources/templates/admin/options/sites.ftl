@@ -8,7 +8,7 @@
     <div class="form-group">
         <label class="col-sm-2 control-label">域名</label>
         <div class="col-sm-6">
-            <input type="text" name="site_domain" class="form-control" value="${options['site_domain']}" placeholder="示例: http://mtons.com">
+            <input type="text" name="site_domain" class="form-control" value="${options['site_domain']}" placeholder="示例: http://cug.com">
         </div>
     </div>
     <div class="form-group">
